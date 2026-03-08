@@ -1,0 +1,16 @@
+transaction_id,customer_id,city,category,product,quantity,unit_price,transaction_date
+T001,C001,Lima,Electronics,Mouse,2,15.5,2025-01-10
+T002,C002,Lima,Electronics,Keyboard,1,35.0,2025-01-10
+T003,C003,Arequipa,Home,Chair,4,22.0,2025-01-11
+T004,C004,Cusco,Home,Table,1,120.0,2025-01-11
+T005,C005,Lima,Sports,Ball,3,18.0,2025-01-12
+T006,C001,Piura,Electronics,Monitor,1,210.0,2025-01-12
+T007,C006,Cusco,Sports,Shoes,2,75.0,2025-01-13
+T008,C007,Arequipa,Home,Lamp,5,12.0,2025-01-13
+T009,C008,Lima,Electronics,Headphones,2,45.0,2025-01-14
+T010,C009,Piura,Sports,Jersey,3,28.0,2025-01-14
+T011,C010,Lima,Electronics,Webcam,1,65.0,2025-01-15
+T012,C011,Trujillo,Home,Desk,1,180.0,2025-01-15
+T013,C012,Piura,Sports,Racket,2,54.0,2025-01-16
+T014,C013,Cusco,Electronics,Speaker,2,80.0,2025-01-16
+T015,C014,Arequipa,Home,Shelf,1,140.0,2025-01-17

@@ -1,0 +1,14 @@
+docs/
+└── big-data-hadoop-spark/
+    ├── README.md
+    ├── slides.md
+    ├── prompts-imagenes.md
+    ├── laboratorio/
+    │   ├── README.md
+    │   ├── guia-laboratorio.md
+    │   ├── notebook-databricks-big-data-hadoop-spark.py
+    │   ├── rubrica.md
+    │   └── dataset/
+    │       └── sample-retail-transactions.csv
+    └── assets/
+        └── README.md
